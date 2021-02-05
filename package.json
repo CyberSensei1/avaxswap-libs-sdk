@@ -19,7 +19,6 @@
     "lint:fix": "tsdx lint src test --fix",
     "build": "tsdx build",
     "start": "tsdx watch",
-    "test": "tsdx test",
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
